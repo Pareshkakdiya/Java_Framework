@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id="s1" class="com.bean.Student">
+<property name="id" value="1"></property>
+<property name="fname" value="Paresh"></property>
+<property name="lname" value="Kakadiya"></property>
+<property name="email" value="paresh@gmail.com"></property>
+<property name="mobile" value="9099592962"></property>
+</bean>
+<bean id="sc" class="com.bean.StudentCollection">
+<property name="list">
+<list>
+<value>1</value>
+<value>Adarsh</value>
+<value>Malav</value>
+<value>adarsh@gmail.com</value>
+<value>4567891230</value>
+
+<ref bean="s1"/>
+
+<bean class="com.bean.Student">
+<property name="id" value="3"></property>
+<property name="fname" value="Haresh"></property>
+<property name="lname" value="Kakadiya"></property>
+<property name="email" value="haresh@gmail.com"></property>
+<property name="mobile" value="9099592962"></property>
+</bean>
+
+</list>
+</property>
+</bean>
+</beans>

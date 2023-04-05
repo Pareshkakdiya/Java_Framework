@@ -1,0 +1,12 @@
+127.0.0.1 - - [01/Apr/2023:10:02:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:10:03:09 +0530] "GET /SpringORM/insert.jsp HTTP/1.1" 200 1155
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:10:03:09 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:10:16:58 +0530] "POST /SpringORM/StudentController HTTP/1.1" 500 8206
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:10:16:58 +0530] "POST /SpringORM/StudentController HTTP/1.1" 500 22368
+127.0.0.1 - - [01/Apr/2023:10:20:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:10:20:08 +0530] "GET /SpringORM/insert.jsp HTTP/1.1" 200 1155
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:10:20:25 +0530] "POST /SpringORM/StudentController HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:10:20:25 +0530] "GET /SpringORM/insert.jsp HTTP/1.1" 200 1155
+127.0.0.1 - - [01/Apr/2023:12:03:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:12:03:25 +0530] "GET /SpringORM/show.jsp HTTP/1.1" 200 1376
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:12:03:25 +0530] "GET /favicon.ico HTTP/1.1" 404 762

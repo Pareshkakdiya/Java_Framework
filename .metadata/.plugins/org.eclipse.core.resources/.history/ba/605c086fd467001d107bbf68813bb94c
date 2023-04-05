@@ -1,0 +1,13 @@
+package java_core;
+
+public class Condition2 {
+	public static void main(String[] args) {
+		int i=17;
+		if(i>=15) {
+			System.out.println("entered number is grater than 15");
+		}else {
+			System.out.println("entered number is smaller than 15");
+		}
+	}
+
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringHello"/>
+<aop-project name="SpringAutoWiring"/>
+<aop-project name="SpringScope"/>
+<aop-project name="SpringInner"/>
+<aop-project name="SpringCollection"/>
+<aop-project name="SpringDiByConstructor"/>
+<aop-project name="SpringDiByObject"/>
+<aop-project name="SpringORM"/>
+</aop-reference-model>

@@ -1,0 +1,32 @@
+package com.swing;
+
+import javax.swing.JFrame;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
+
+public class TableExample {
+    JFrame f;
+    JTable t;
+    public TableExample() {
+	  f = new JFrame("REGISTRATION FORM");
+	  f.setVisible(true);
+	  f.setSize(500, 300);
+	  f.setResizable(false);
+	  f.setLayout(null);
+	  
+	  String[][] data= {};
+	  String[] column= {"Sno","ID","Name","Gender","Address","Contact"};
+	  t = new JTable(data, column);
+	  t.setBounds(30, 40, 200, 300);
+	  
+	  JScrollPane jsp= new JScrollPane(t);
+	  f.add(jsp);
+	  
+	}
+    public static void main(String[] args) {
+		new TableExample();
+	}
+}
+
+
+	

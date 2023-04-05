@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\LENOVO\eclipse-workspace\SpringDiByObject\pom.xml"/>
+			<item value="C:\Users\LENOVO\eclipse-workspace\SpringDiByObject\src\main\java\com\bean\Person.java"/>
+			<item value="C:\Users\LENOVO\eclipse-workspace\SpringDiByObject\src\main\java\com\spring\SpringDiByObject\App.java"/>
+			<item value="C:\Users\LENOVO\eclipse-workspace\SpringDiByConstructor\src\main\java\com\bean\Student.java"/>
+			<item value="C:\Users\LENOVO\eclipse-workspace\SpringHello\src\main\java\com\spring\SpringHello\App.java"/>
+			<item value="C:\Users\LENOVO\eclipse-workspace\OneToManyToOne\src\main\java\com\bean\Dept.java"/>
+			<item value="C:\Users\LENOVO\eclipse-workspace\ManyToMany\src\main\java\com\bean\Students.java"/>
+			<item value="C:\Users\LENOVO\eclipse-workspace\OneToManyToOne\src\main\webapp\emp.jsp"/>
+			<item value="C:\Users\LENOVO\eclipse-workspace\OneToOneApp\src\main\java\com\bean\EmployeeInfo.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.spring.SpringORM"/>
+			<item value="com.spring.SpringAutoWiring"/>
+			<item value="com.spring.SpringCollection"/>
+			<item value="com.spring.SpringInner"/>
+			<item value="com.spring.Hospital"/>
+			<item value="com.spring.SpringScope"/>
+			<item value="com.spring.SpringDiByObject"/>
+			<item value="com.spring.SpringDiByConstructor"/>
+			<item value="com.spring.SpringLifeCycle"/>
+			<item value="com.spring.SpringHello"/>
+			<item value="com.spring"/>
+			<item value="com.spring.HelloSpring"/>
+			<item value="com.hibernate.ManyToMany"/>
+			<item value="com.hibernate.OneToManyToOne"/>
+			<item value="com.hibernate.OneToOneApp"/>
+		</list>
+		<list key="groupId">
+			<item value="com.spring"/>
+			<item value="com.hibernate"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringORM"/>
+			<item value="SpringAutoWiring"/>
+			<item value="SpringCollection"/>
+			<item value="SpringInner"/>
+			<item value="Hospital"/>
+			<item value="SpringScope"/>
+			<item value="SpringDiByObject"/>
+			<item value="SpringDiByConstructor"/>
+			<item value="SpringLifeCycle"/>
+			<item value="SpringHello"/>
+			<item value="HelloSpring"/>
+			<item value="ManyToMany"/>
+			<item value="OneToManyToOne"/>
+			<item value="OneToOneApp"/>
+			<item value="Hibernate"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

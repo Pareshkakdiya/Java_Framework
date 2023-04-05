@@ -1,0 +1,1046 @@
+
+Feb 11, 2023 09:41:16.595 NEW SESSION
+Feb 11, 2023 09:41:16.600 [3232:3848:0211/094116.439:ERROR:device_event_log_impl.cc(215)] [09:41:16.439] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2023 09:41:16.608 [3232:3848:0211/094116.440:ERROR:device_event_log_impl.cc(215)] [09:41:16.440] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2023 09:41:16.610 [3232:3848:0211/094116.474:ERROR:device_event_log_impl.cc(215)] [09:41:16.473] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 11, 2023 09:42:13.65 [3232:7336:0211/094213.050:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 11, 2023 09:48:26.988 [10568:1928:0211/094826.981:ERROR:device_event_log_impl.cc(215)] [09:48:26.981] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2023 09:48:27.08 [10568:1928:0211/094826.984:ERROR:device_event_log_impl.cc(215)] [09:48:26.984] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2023 09:48:27.09 [10568:1928:0211/094826.984:ERROR:device_event_log_impl.cc(215)] [09:48:26.985] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 11, 2023 09:49:23.443 [10568:11012:0211/094923.438:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Feb 11, 2023 15:40:31.328 NEW SESSION
+Feb 11, 2023 15:40:31.331 [7308:12076:0211/154031.247:ERROR:device_event_log_impl.cc(215)] [15:40:31.246] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2023 15:40:31.336 [7308:12076:0211/154031.248:ERROR:device_event_log_impl.cc(215)] [15:40:31.248] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2023 15:40:31.336 [7308:12076:0211/154031.278:ERROR:device_event_log_impl.cc(215)] [15:40:31.278] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 11, 2023 15:40:31.672 [7308:5984:0211/154031.671:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 15:40:53.996 [7308:5984:0211/154053.984:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 15:41:27.764 [7308:4492:0211/154127.763:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 11, 2023 15:41:48.740 [7308:5984:0211/154148.736:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 15:43:25.40 [7308:5984:0211/154325.029:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 15:46:17.79 [7308:5984:0211/154617.065:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 15:54:01.609 [7308:5984:0211/155401.599:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 16:04:01.646 [7308:5984:0211/160401.637:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 16:14:01.703 [7308:5984:0211/161401.675:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 16:24:01.882 [7308:5984:0211/162401.700:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 16:34:01.741 [7308:5984:0211/163401.737:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 16:44:01.787 [7308:5984:0211/164401.772:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 16:54:01.812 [7308:5984:0211/165401.802:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 17:04:01.836 [7308:5984:0211/170401.820:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 17:14:01.863 [7308:5984:0211/171401.849:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 17:24:01.884 [7308:5984:0211/172401.869:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 17:34:01.911 [7308:5984:0211/173401.897:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2023 17:44:01.938 [7308:5984:0211/174401.931:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 12, 2023 10:55:55.647 NEW SESSION
+Feb 12, 2023 10:55:55.653 [10560:10232:0212/105555.420:ERROR:device_event_log_impl.cc(215)] [10:55:55.420] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 12, 2023 10:55:55.674 [10560:10232:0212/105555.421:ERROR:device_event_log_impl.cc(215)] [10:55:55.421] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 12, 2023 10:55:55.675 [10560:10232:0212/105555.455:ERROR:device_event_log_impl.cc(215)] [10:55:55.456] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 12, 2023 10:56:50.967 [10560:10372:0212/105650.963:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 12, 2023 12:34:57.938 [10560:5824:0212/123457.920:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 12, 2023 12:35:20.959 [10560:5824:0212/123520.957:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 12, 2023 12:36:01.211 [10560:5824:0212/123601.209:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 12, 2023 12:37:26.317 [10560:5824:0212/123726.308:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 12, 2023 12:38:09.602 [10560:5824:0212/123809.599:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+
+Feb 13, 2023 09:01:56.805 NEW SESSION
+Feb 13, 2023 09:01:56.807 [12688:10324:0213/090156.740:ERROR:device_event_log_impl.cc(215)] [09:01:56.739] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 13, 2023 09:01:56.811 [12688:10324:0213/090156.742:ERROR:device_event_log_impl.cc(215)] [09:01:56.741] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 13, 2023 09:01:56.813 [12688:10324:0213/090156.786:ERROR:device_event_log_impl.cc(215)] [09:01:56.786] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 13, 2023 09:01:57.587 [12688:4136:0213/090157.586:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 09:02:27.735 [12708:14436:0213/090227.732:ERROR:device_event_log_impl.cc(215)] [09:02:27.731] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 13, 2023 09:02:27.747 [12708:14436:0213/090227.739:ERROR:device_event_log_impl.cc(215)] [09:02:27.739] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 13, 2023 09:02:27.748 [12708:14436:0213/090227.741:ERROR:device_event_log_impl.cc(215)] [09:02:27.741] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 13, 2023 09:02:28.588 [12708:12660:0213/090228.587:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 09:02:54.01 [12708:12660:0213/090254.000:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 09:03:22.860 [12708:9164:0213/090322.857:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 13, 2023 09:03:48.323 [12708:12660:0213/090348.321:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 09:05:37.531 [12708:12660:0213/090537.523:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 14, 2023 09:07:57.51 NEW SESSION
+Feb 14, 2023 09:07:57.52 [836:3608:0214/090757.010:ERROR:device_event_log_impl.cc(215)] [09:07:57.010] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:07:57.56 [836:3608:0214/090757.012:ERROR:device_event_log_impl.cc(215)] [09:07:57.012] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:07:57.56 [836:3608:0214/090757.034:ERROR:device_event_log_impl.cc(215)] [09:07:57.035] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 14, 2023 09:08:52.321 [836:7620:0214/090852.309:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 14, 2023 09:12:27.131 [836:2712:0214/091227.126:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 09:12:52.808 [836:2712:0214/091252.805:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 09:25:41.557 [8020:7960:0214/092541.550:ERROR:device_event_log_impl.cc(215)] [09:25:41.550] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:25:41.572 [8020:7960:0214/092541.551:ERROR:device_event_log_impl.cc(215)] [09:25:41.551] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:25:41.586 [8020:7960:0214/092541.586:ERROR:device_event_log_impl.cc(215)] [09:25:41.585] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 14, 2023 09:26:34.201 [8020:8844:0214/092634.200:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 14, 2023 09:29:47.213 [2964:3292:0214/092947.207:ERROR:device_event_log_impl.cc(215)] [09:29:47.207] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:29:47.245 [2964:3292:0214/092947.207:ERROR:device_event_log_impl.cc(215)] [09:29:47.207] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 14, 2023 09:29:47.246 [2964:3292:0214/092947.207:ERROR:device_event_log_impl.cc(215)] [09:29:47.207] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:30:32.643 [4752:7532:0214/093032.636:ERROR:device_event_log_impl.cc(215)] [09:30:32.637] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 14, 2023 09:30:32.654 [4752:7532:0214/093032.653:ERROR:device_event_log_impl.cc(215)] [09:30:32.654] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:30:32.661 [4752:7532:0214/093032.655:ERROR:device_event_log_impl.cc(215)] [09:30:32.655] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:31:34.758 [3580:2456:0214/093134.751:ERROR:device_event_log_impl.cc(215)] [09:31:34.751] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:31:34.781 [3580:2456:0214/093134.752:ERROR:device_event_log_impl.cc(215)] [09:31:34.751] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:31:34.784 [3580:2456:0214/093134.781:ERROR:device_event_log_impl.cc(215)] [09:31:34.781] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 14, 2023 09:31:52.370 [9076:3224:0214/093152.368:ERROR:device_event_log_impl.cc(215)] [09:31:52.368] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:31:52.373 [9076:3224:0214/093152.370:ERROR:device_event_log_impl.cc(215)] [09:31:52.370] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:31:52.374 [9076:3224:0214/093152.372:ERROR:device_event_log_impl.cc(215)] [09:31:52.372] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Feb 14, 2023 09:32:28.449 [8072:3276:0214/093228.445:ERROR:device_event_log_impl.cc(215)] [09:32:28.445] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:32:28.470 [8072:3276:0214/093228.447:ERROR:device_event_log_impl.cc(215)] [09:32:28.447] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 09:32:28.474 [8072:3276:0214/093228.473:ERROR:device_event_log_impl.cc(215)] [09:32:28.473] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+Feb 16, 2023 09:55:51.935 NEW SESSION
+Feb 16, 2023 09:55:51.935 [7100:9204:0216/095551.896:ERROR:device_event_log_impl.cc(218)] [09:55:51.896] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 16, 2023 09:55:51.938 [7100:9204:0216/095551.896:ERROR:device_event_log_impl.cc(218)] [09:55:51.896] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 16, 2023 09:56:02.90 [7100:5332:0216/095602.088:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Feb 17, 2023 12:01:21.882 NEW SESSION
+Feb 17, 2023 12:01:21.888 [3124:240:0217/120121.654:ERROR:device_event_log_impl.cc(218)] [12:01:21.654] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:01:21.892 [3124:240:0217/120121.654:ERROR:device_event_log_impl.cc(218)] [12:01:21.654] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:01:23.79 [3124:8948:0217/120123.079:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:01:47.372 [3124:8948:0217/120147.371:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:02:46.140 [3124:8948:0217/120246.139:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 17, 2023 12:08:03.377 NEW SESSION
+Feb 17, 2023 12:08:03.378 [2044:1316:0217/120803.337:ERROR:device_event_log_impl.cc(218)] [12:08:03.337] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:08:03.381 [2044:1316:0217/120803.341:ERROR:device_event_log_impl.cc(218)] [12:08:03.341] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:08:03.705 [2044:5744:0217/120803.705:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:08:27.704 [2044:5744:0217/120827.701:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:09:12.849 [2044:5744:0217/120912.847:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:10:51.526 [2044:5744:0217/121051.521:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:13:39.306 [2044:5744:0217/121339.298:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:19:11.10 [3804:7472:0217/121911.004:ERROR:device_event_log_impl.cc(218)] [12:19:11.004] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:19:11.27 [3804:7472:0217/121911.004:ERROR:device_event_log_impl.cc(218)] [12:19:11.004] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:19:11.272 [3804:5452:0217/121911.271:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:19:34.444 [3804:5452:0217/121934.441:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:20:13.759 [236:124:0217/122013.756:ERROR:device_event_log_impl.cc(218)] [12:20:13.756] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:20:13.762 [236:124:0217/122013.757:ERROR:device_event_log_impl.cc(218)] [12:20:13.757] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:20:14.107 [236:3988:0217/122014.106:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:20:34.851 [236:3988:0217/122034.850:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:21:28.783 [236:3988:0217/122128.782:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:22:29.379 [7780:1436:0217/122229.375:ERROR:device_event_log_impl.cc(218)] [12:22:29.374] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:22:29.391 [7780:1436:0217/122229.376:ERROR:device_event_log_impl.cc(218)] [12:22:29.375] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:22:30.08 [7780:4992:0217/122230.007:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:22:45.838 [7820:2036:0217/122245.838:ERROR:device_event_log_impl.cc(218)] [12:22:45.837] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:22:45.900 [7820:2036:0217/122245.839:ERROR:device_event_log_impl.cc(218)] [12:22:45.839] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:22:46.349 [7820:7184:0217/122246.348:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 17, 2023 12:41:52.51 NEW SESSION
+Feb 17, 2023 12:41:52.52 [4640:7620:0217/124152.034:ERROR:device_event_log_impl.cc(218)] [12:41:52.035] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:41:52.54 [4640:7620:0217/124152.035:ERROR:device_event_log_impl.cc(218)] [12:41:52.036] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 12:41:52.804 [4640:6628:0217/124152.803:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:42:19.343 [4640:6628:0217/124219.342:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:43:12.525 [4640:6628:0217/124312.524:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:44:48.768 [4640:6628:0217/124448.763:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:48:45.639 [4640:6628:0217/124845.630:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2023 12:56:29.86 [4640:6628:0217/125629.065:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 17, 2023 20:10:54.563 NEW SESSION
+Feb 17, 2023 20:10:54.565 [3572:3540:0217/201054.513:ERROR:device_event_log_impl.cc(218)] [20:10:54.512] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 20:10:54.570 [3572:3540:0217/201054.513:ERROR:device_event_log_impl.cc(218)] [20:10:54.513] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 20:15:41.400 [2260:6824:0217/201541.398:ERROR:device_event_log_impl.cc(218)] [20:15:41.398] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 20:15:41.409 [2260:6824:0217/201541.399:ERROR:device_event_log_impl.cc(218)] [20:15:41.399] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2023 20:49:42.939 [2260:7416:0217/204942.915:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Feb 17, 2023 22:24:44.929 NEW SESSION
+Feb 17, 2023 22:24:44.935 [2492:1196:0217/222444.688:ERROR:device_event_log_impl.cc(218)] [22:24:44.685] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Feb 18, 2023 10:14:07.707 NEW SESSION
+Feb 18, 2023 10:14:07.712 [7528:11376:0218/101407.591:ERROR:device_event_log_impl.cc(218)] [10:14:07.591] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 18, 2023 10:14:07.717 [7528:11376:0218/101407.592:ERROR:device_event_log_impl.cc(218)] [10:14:07.592] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 18, 2023 10:14:08.48 [7528:5304:0218/101408.047:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 20, 2023 09:05:29.462 NEW SESSION
+Feb 20, 2023 09:05:29.463 [5856:7364:0220/090529.445:ERROR:device_event_log_impl.cc(218)] [09:05:29.444] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 09:05:29.465 [5856:7364:0220/090529.446:ERROR:device_event_log_impl.cc(218)] [09:05:29.445] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 09:09:24.855 [5368:4676:0220/090924.853:ERROR:device_event_log_impl.cc(218)] [09:09:24.852] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 09:09:24.869 [5368:4676:0220/090924.854:ERROR:device_event_log_impl.cc(218)] [09:09:24.853] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 09:28:51.948 [7372:1836:0220/092851.891:ERROR:device_event_log_impl.cc(218)] [09:28:51.891] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 09:28:51.964 [7372:1836:0220/092851.892:ERROR:device_event_log_impl.cc(218)] [09:28:51.892] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:30:33.160 [4784:1672:0220/103033.146:ERROR:device_event_log_impl.cc(218)] [10:30:33.146] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:30:33.185 [4784:1672:0220/103033.149:ERROR:device_event_log_impl.cc(218)] [10:30:33.148] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:39:05.376 [7756:8596:0220/103905.373:ERROR:device_event_log_impl.cc(218)] [10:39:05.373] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:39:05.400 [7756:8596:0220/103905.374:ERROR:device_event_log_impl.cc(218)] [10:39:05.375] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 20, 2023 10:52:53.434 NEW SESSION
+Feb 20, 2023 10:52:53.436 [8704:5248:0220/105253.398:ERROR:device_event_log_impl.cc(218)] [10:52:53.397] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:52:53.440 [8704:5248:0220/105253.399:ERROR:device_event_log_impl.cc(218)] [10:52:53.399] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:53:36.856 [4704:8096:0220/105336.852:ERROR:device_event_log_impl.cc(218)] [10:53:36.851] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:53:36.864 [4704:8096:0220/105336.853:ERROR:device_event_log_impl.cc(218)] [10:53:36.853] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:54:24.360 [8116:8552:0220/105424.356:ERROR:device_event_log_impl.cc(218)] [10:54:24.356] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:54:24.367 [8116:8552:0220/105424.357:ERROR:device_event_log_impl.cc(218)] [10:54:24.357] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:55:52.474 [8840:4820:0220/105552.472:ERROR:device_event_log_impl.cc(218)] [10:55:52.471] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 10:55:52.482 [8840:4820:0220/105552.473:ERROR:device_event_log_impl.cc(218)] [10:55:52.472] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 11:25:20.831 [7692:4500:0220/112520.827:ERROR:device_event_log_impl.cc(218)] [11:25:20.827] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 11:25:20.837 [7692:4500:0220/112520.828:ERROR:device_event_log_impl.cc(218)] [11:25:20.829] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 20, 2023 12:14:44.583 NEW SESSION
+Feb 20, 2023 12:14:44.583 [5552:4544:0220/121444.579:ERROR:device_event_log_impl.cc(218)] [12:14:44.579] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 12:14:44.585 [5552:4544:0220/121444.580:ERROR:device_event_log_impl.cc(218)] [12:14:44.580] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 12:22:18.406 [6436:1224:0220/122218.399:ERROR:device_event_log_impl.cc(218)] [12:22:18.399] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 12:22:18.417 [6436:1224:0220/122218.400:ERROR:device_event_log_impl.cc(218)] [12:22:18.400] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 12:39:49.559 [3636:7036:0220/123949.557:ERROR:device_event_log_impl.cc(218)] [12:39:49.557] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 12:39:49.562 [3636:7036:0220/123949.558:ERROR:device_event_log_impl.cc(218)] [12:39:49.558] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 21, 2023 09:01:58.754 NEW SESSION
+Feb 21, 2023 09:01:58.759 [8292:6328:0221/090158.623:ERROR:device_event_log_impl.cc(218)] [09:01:58.622] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:01:58.766 [8292:6328:0221/090158.623:ERROR:device_event_log_impl.cc(218)] [09:01:58.623] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:10:16.345 [9892:9432:0221/091016.343:ERROR:device_event_log_impl.cc(218)] [09:10:16.343] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:10:16.351 [9892:9432:0221/091016.344:ERROR:device_event_log_impl.cc(218)] [09:10:16.344] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:11:15.531 [2100:9824:0221/091115.528:ERROR:device_event_log_impl.cc(218)] [09:11:15.528] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:11:15.538 [2100:9824:0221/091115.529:ERROR:device_event_log_impl.cc(218)] [09:11:15.529] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:28:11.324 [7552:572:0221/092811.320:ERROR:device_event_log_impl.cc(218)] [09:28:11.319] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:28:11.337 [7552:572:0221/092811.321:ERROR:device_event_log_impl.cc(218)] [09:28:11.320] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:39:01.573 [8384:1496:0221/093901.568:ERROR:device_event_log_impl.cc(218)] [09:39:01.567] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:39:01.601 [8384:1496:0221/093901.569:ERROR:device_event_log_impl.cc(218)] [09:39:01.568] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:44:26.565 [6208:7128:0221/094426.562:ERROR:device_event_log_impl.cc(218)] [09:44:26.561] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:44:26.575 [6208:7128:0221/094426.562:ERROR:device_event_log_impl.cc(218)] [09:44:26.562] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:46:04.440 [6336:7156:0221/094604.438:ERROR:device_event_log_impl.cc(218)] [09:46:04.438] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:46:04.444 [6336:7156:0221/094604.442:ERROR:device_event_log_impl.cc(218)] [09:46:04.442] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:50:03.770 [8420:1564:0221/095003.763:ERROR:device_event_log_impl.cc(218)] [09:50:03.763] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 09:50:03.795 [8420:1564:0221/095003.764:ERROR:device_event_log_impl.cc(218)] [09:50:03.764] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 22, 2023 09:30:34.945 NEW SESSION
+Feb 22, 2023 09:30:34.953 [6176:3172:0222/093034.749:ERROR:device_event_log_impl.cc(218)] [09:30:34.748] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 09:30:34.960 [6176:3172:0222/093034.750:ERROR:device_event_log_impl.cc(218)] [09:30:34.750] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 09:37:22.680 [4780:4900:0222/093722.669:ERROR:device_event_log_impl.cc(218)] [09:37:22.668] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 09:37:22.709 [4780:4900:0222/093722.670:ERROR:device_event_log_impl.cc(218)] [09:37:22.671] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 09:52:57.322 [4616:3836:0222/095257.319:ERROR:device_event_log_impl.cc(218)] [09:52:57.318] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 09:52:57.326 [4616:3836:0222/095257.321:ERROR:device_event_log_impl.cc(218)] [09:52:57.320] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 10:28:22.897 [7012:10112:0222/102822.891:ERROR:device_event_log_impl.cc(218)] [10:28:22.891] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 10:28:22.910 [7012:10112:0222/102822.893:ERROR:device_event_log_impl.cc(218)] [10:28:22.893] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 11:43:07.146 [7852:1612:0222/114307.127:ERROR:device_event_log_impl.cc(218)] [11:43:07.126] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 11:43:07.177 [7852:1612:0222/114307.143:ERROR:device_event_log_impl.cc(218)] [11:43:07.143] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:31:51.162 [8148:4304:0222/123151.145:ERROR:device_event_log_impl.cc(218)] [12:31:51.145] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:31:51.172 [8148:4304:0222/123151.145:ERROR:device_event_log_impl.cc(218)] [12:31:51.146] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:33:03.729 [8216:3536:0222/123303.727:ERROR:device_event_log_impl.cc(218)] [12:33:03.726] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:33:03.734 [8216:3536:0222/123303.727:ERROR:device_event_log_impl.cc(218)] [12:33:03.728] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:33:54.767 [5168:4552:0222/123354.758:ERROR:device_event_log_impl.cc(218)] [12:33:54.758] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:33:54.798 [5168:4552:0222/123354.760:ERROR:device_event_log_impl.cc(218)] [12:33:54.760] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 23, 2023 10:14:44.360 NEW SESSION
+Feb 23, 2023 10:14:44.366 [7696:3788:0223/101444.000:ERROR:device_event_log_impl.cc(218)] [10:14:43.999] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 10:14:44.375 [7696:3788:0223/101444.000:ERROR:device_event_log_impl.cc(218)] [10:14:44.000] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 23, 2023 21:21:24.858 NEW SESSION
+Feb 23, 2023 21:21:24.863 [8740:8524:0223/212124.724:ERROR:device_event_log_impl.cc(218)] [21:21:24.724] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 21:21:24.881 [8740:8524:0223/212124.727:ERROR:device_event_log_impl.cc(218)] [21:21:24.727] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 21:23:17.49 [5780:5112:0223/212316.866:ERROR:device_event_log_impl.cc(218)] [21:23:16.864] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 21:23:17.100 [5780:5112:0223/212316.867:ERROR:device_event_log_impl.cc(218)] [21:23:16.867] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 21:38:32.858 [6284:8732:0223/213832.852:ERROR:device_event_log_impl.cc(218)] [21:38:32.852] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 21:38:32.875 [6284:8732:0223/213832.852:ERROR:device_event_log_impl.cc(218)] [21:38:32.853] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 21:41:37.322 [4536:8964:0223/214137.318:ERROR:device_event_log_impl.cc(218)] [21:41:37.318] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 21:41:37.332 [4536:8964:0223/214137.319:ERROR:device_event_log_impl.cc(218)] [21:41:37.319] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 24, 2023 09:28:16.848 NEW SESSION
+Feb 24, 2023 09:28:16.852 [5780:680:0224/092816.781:ERROR:device_event_log_impl.cc(218)] [09:28:16.781] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:28:16.857 [5780:680:0224/092816.782:ERROR:device_event_log_impl.cc(218)] [09:28:16.781] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:39:13.28 [10680:7044:0224/093913.013:ERROR:device_event_log_impl.cc(218)] [09:39:13.012] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:39:13.47 [10680:7044:0224/093913.013:ERROR:device_event_log_impl.cc(218)] [09:39:13.013] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:42:46.528 [984:3312:0224/094246.509:ERROR:device_event_log_impl.cc(218)] [09:42:46.508] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:42:46.539 [984:3312:0224/094246.511:ERROR:device_event_log_impl.cc(218)] [09:42:46.511] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:43:19.271 [7748:8644:0224/094319.264:ERROR:device_event_log_impl.cc(218)] [09:43:19.264] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:43:19.287 [7748:8644:0224/094319.266:ERROR:device_event_log_impl.cc(218)] [09:43:19.266] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:47:23.329 [8704:324:0224/094723.319:ERROR:device_event_log_impl.cc(218)] [09:47:23.319] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:47:23.360 [8704:324:0224/094723.320:ERROR:device_event_log_impl.cc(218)] [09:47:23.320] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:48:54.311 [7896:7776:0224/094854.304:ERROR:device_event_log_impl.cc(218)] [09:48:54.304] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:48:54.322 [7896:7776:0224/094854.305:ERROR:device_event_log_impl.cc(218)] [09:48:54.305] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:49:25.454 [5552:11164:0224/094925.452:ERROR:device_event_log_impl.cc(218)] [09:49:25.451] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:49:25.467 [5552:11164:0224/094925.453:ERROR:device_event_log_impl.cc(218)] [09:49:25.452] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:49:48.597 [7556:8348:0224/094948.594:ERROR:device_event_log_impl.cc(218)] [09:49:48.594] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 09:49:48.613 [7556:8348:0224/094948.602:ERROR:device_event_log_impl.cc(218)] [09:49:48.601] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 10:35:36.107 [8560:1044:0224/103536.096:ERROR:device_event_log_impl.cc(218)] [10:35:36.096] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 10:35:36.197 [8560:1044:0224/103536.098:ERROR:device_event_log_impl.cc(218)] [10:35:36.098] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 11:17:27.598 [10992:3300:0224/111727.578:ERROR:device_event_log_impl.cc(218)] [11:17:27.577] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 11:17:27.710 [10992:3300:0224/111727.578:ERROR:device_event_log_impl.cc(218)] [11:17:27.577] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 11:47:02.849 [10992:3300:0224/114702.835:ERROR:device_event_log_impl.cc(218)] [11:47:02.835] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 24, 2023 11:47:02.893 [10992:3300:0224/114702.893:ERROR:device_event_log_impl.cc(218)] [11:47:02.893] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Feb 25, 2023 22:54:33.163 NEW SESSION
+Feb 25, 2023 22:54:33.164 [7408:11196:0225/225433.145:ERROR:device_event_log_impl.cc(218)] [22:54:33.146] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 22:54:33.166 [7408:11196:0225/225433.145:ERROR:device_event_log_impl.cc(218)] [22:54:33.146] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 22:54:34.68 [7408:3020:0225/225434.067:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 22:54:54.571 [7408:3020:0225/225454.570:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 22:56:20.380 [6920:7452:0225/225620.377:ERROR:device_event_log_impl.cc(218)] [22:56:20.376] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 22:56:20.391 [6920:7452:0225/225620.377:ERROR:device_event_log_impl.cc(218)] [22:56:20.377] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 22:56:20.944 [6920:5548:0225/225620.943:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 22:56:50.703 [6920:5548:0225/225650.700:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 22:57:21.991 [4700:2076:0225/225721.982:ERROR:device_event_log_impl.cc(218)] [22:57:21.981] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 22:57:22.00 [4700:2076:0225/225721.983:ERROR:device_event_log_impl.cc(218)] [22:57:21.983] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 22:57:22.185 [4700:7556:0225/225722.185:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 23:00:03.07 [5232:5168:0225/230003.003:ERROR:device_event_log_impl.cc(218)] [23:00:03.003] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 23:00:03.14 [5232:5168:0225/230003.005:ERROR:device_event_log_impl.cc(218)] [23:00:03.006] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 23:00:04.565 [5232:11064:0225/230004.564:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 23:00:27.660 [5232:11064:0225/230027.658:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 23:01:23.274 [5232:11064:0225/230123.272:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 23:03:05.571 [5232:11064:0225/230305.569:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 23:06:16.850 [5232:11064:0225/230616.840:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 23:13:58.180 [5232:11064:0225/231358.169:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 23:23:58.228 [5232:11064:0225/232358.219:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 23:32:00.513 [8236:4944:0225/233200.497:ERROR:device_event_log_impl.cc(218)] [23:32:00.497] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 23:32:00.539 [8236:4944:0225/233200.497:ERROR:device_event_log_impl.cc(218)] [23:32:00.498] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 23:32:01.151 [8236:10844:0225/233201.150:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 23:32:21.926 [8236:10844:0225/233221.925:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2023 23:33:18.538 [8236:10844:0225/233318.510:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 26, 2023 09:34:26.700 NEW SESSION
+Feb 26, 2023 09:34:26.706 [7556:10264:0226/093426.501:ERROR:device_event_log_impl.cc(218)] [09:34:26.501] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 09:34:26.712 [7556:10264:0226/093426.502:ERROR:device_event_log_impl.cc(218)] [09:34:26.502] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 09:49:36.737 [3644:432:0226/094936.727:ERROR:device_event_log_impl.cc(218)] [09:49:36.726] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 09:49:36.763 [3644:432:0226/094936.729:ERROR:device_event_log_impl.cc(218)] [09:49:36.728] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 10:00:43.739 [7624:5804:0226/100043.728:ERROR:device_event_log_impl.cc(218)] [10:00:43.728] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 10:00:43.763 [7624:5804:0226/100043.729:ERROR:device_event_log_impl.cc(218)] [10:00:43.729] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 10:14:42.395 [7624:5252:0226/101442.335:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 26, 2023 10:15:03.122 [7624:5252:0226/101503.121:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 10:15:32.859 [7624:5252:0226/101532.856:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 10:16:32.155 [7624:5252:0226/101632.150:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 10:19:26.610 [7624:5252:0226/101926.564:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 10:19:48.697 [7624:5252:0226/101948.696:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 10:20:45.323 [7624:5252:0226/102045.322:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 10:22:21.47 [7624:5252:0226/102221.042:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 10:25:06.287 [7624:5252:0226/102506.284:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 10:31:11.966 [7624:5252:0226/103111.931:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 10:41:11.965 [7624:5252:0226/104111.948:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 10:51:12.08 [7624:5252:0226/105111.971:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 11:01:12.38 [7624:5252:0226/110111.989:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 11:11:12.57 [7624:5252:0226/111112.015:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 11:21:12.74 [7624:5252:0226/112112.042:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 11:31:12.71 [7624:5252:0226/113112.064:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 13:28:04.397 [7624:5252:0226/132804.373:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 26, 2023 14:39:07.01 NEW SESSION
+Feb 26, 2023 14:39:07.04 [2200:9656:0226/143906.964:ERROR:device_event_log_impl.cc(218)] [14:39:06.963] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 14:39:07.08 [2200:9656:0226/143906.965:ERROR:device_event_log_impl.cc(218)] [14:39:06.965] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 26, 2023 17:58:01.86 NEW SESSION
+Feb 26, 2023 17:58:01.87 [2708:2532:0226/175759.128:ERROR:device_event_log_impl.cc(218)] [17:57:59.127] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 17:58:01.89 [2708:2532:0226/175759.129:ERROR:device_event_log_impl.cc(218)] [17:57:59.129] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 27, 2023 09:14:53.233 NEW SESSION
+Feb 27, 2023 09:14:53.237 [6616:10760:0227/091452.913:ERROR:device_event_log_impl.cc(218)] [09:14:52.913] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 09:14:53.246 [6616:10760:0227/091452.914:ERROR:device_event_log_impl.cc(218)] [09:14:52.914] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 09:14:53.926 [6616:7576:0227/091453.925:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2023 09:15:22.156 [6616:7576:0227/091522.153:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2023 09:15:49.998 [10816:4184:0227/091549.991:ERROR:device_event_log_impl.cc(218)] [09:15:49.991] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 09:15:50.21 [10816:4184:0227/091549.993:ERROR:device_event_log_impl.cc(218)] [09:15:49.993] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 09:15:50.745 [10816:8168:0227/091550.745:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2023 09:16:14.694 [10816:8168:0227/091614.692:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2023 09:17:05.132 [10816:8168:0227/091705.129:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2023 09:18:43.133 [10816:8168:0227/091843.118:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2023 09:19:24.758 [10816:8168:0227/091924.756:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2023 09:19:30.167 [10816:8168:0227/091930.166:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2023 09:19:41.914 [10816:8168:0227/091941.913:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2023 09:23:26.744 [7232:1668:0227/092326.734:ERROR:device_event_log_impl.cc(218)] [09:23:26.734] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 09:23:26.873 [7232:1668:0227/092326.735:ERROR:device_event_log_impl.cc(218)] [09:23:26.736] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 09:29:48.260 [588:5132:0227/092948.244:ERROR:device_event_log_impl.cc(218)] [09:29:48.244] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 09:29:48.286 [588:5132:0227/092948.246:ERROR:device_event_log_impl.cc(218)] [09:29:48.247] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 28, 2023 08:46:48.526 NEW SESSION
+Feb 28, 2023 08:46:48.528 [1740:7276:0228/084648.495:ERROR:device_event_log_impl.cc(218)] [08:46:48.495] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 08:46:48.530 [1740:7276:0228/084648.496:ERROR:device_event_log_impl.cc(218)] [08:46:48.496] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 08:46:48.934 [1740:2204:0228/084648.934:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 08:47:10.496 [1740:2204:0228/084710.495:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 08:47:51.221 [1740:2204:0228/084751.220:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 08:49:23.31 [1740:2204:0228/084923.021:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 08:52:30.873 [1740:2204:0228/085230.865:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 08:59:51.188 [1740:2204:0228/085951.168:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 09:09:51.224 [1740:2204:0228/090951.201:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 09:19:51.252 [1740:2204:0228/091951.224:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 09:29:51.298 [1740:2204:0228/092951.259:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 09:39:51.394 [1740:2204:0228/093951.386:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 09:49:51.437 [1740:2204:0228/094951.413:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 09:59:51.474 [1740:2204:0228/095951.445:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 10:07:27.207 [10564:11908:0228/100727.154:ERROR:device_event_log_impl.cc(218)] [10:07:27.153] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 10:07:27.274 [10564:11908:0228/100727.155:ERROR:device_event_log_impl.cc(218)] [10:07:27.155] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 10:28:26.274 [10564:11092:0228/102826.267:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 10:28:51.829 [10564:11092:0228/102851.828:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 10:29:32.898 [10564:11092:0228/102932.894:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 28, 2023 10:31:56.338 [10564:11092:0228/103156.316:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 10:32:23.829 [10564:11092:0228/103223.798:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 11:33:40.279 [10564:11092:0228/113340.232:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:04:06.934 [10564:11092:0228/120406.912:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:04:27.882 [10564:11092:0228/120427.879:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:05:12.327 [10564:11092:0228/120512.319:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:06:55.886 [10564:11092:0228/120655.881:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:09:37.954 [10564:11092:0228/120937.945:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:16:22.245 [10564:11092:0228/121622.234:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:26:22.266 [10564:11092:0228/122622.249:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:33:12.587 [10564:11092:0228/123312.562:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 28, 2023 12:39:13.451 [10564:11092:0228/123913.412:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 28, 2023 12:39:15.436 [10564:11092:0228/123915.432:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:39:16.676 [10564:11908:0228/123916.675:ERROR:device_event_log_impl.cc(218)] [12:39:16.674] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2023 12:39:43.646 [10564:11092:0228/123943.617:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:40:36.200 [10564:11092:0228/124036.181:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 12:42:02.735 [10564:11092:0228/124202.728:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 28, 2023 14:20:49.71 NEW SESSION
+Feb 28, 2023 14:20:49.74 [1980:4544:0228/142048.979:ERROR:device_event_log_impl.cc(218)] [14:20:48.979] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 14:20:49.78 [1980:4544:0228/142048.980:ERROR:device_event_log_impl.cc(218)] [14:20:48.980] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 14:20:49.751 [1980:9260:0228/142049.751:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 14:21:16.893 [1980:9260:0228/142116.891:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 14:22:00.783 [1980:9260:0228/142200.782:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 14:23:31.770 [1980:9260:0228/142331.769:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 14:27:06.96 [1980:9260:0228/142706.094:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 14:33:48.355 [1980:9260:0228/143348.346:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 14:43:48.400 [1980:9260:0228/144348.394:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 14:50:14.181 [11784:5832:0228/145014.169:ERROR:device_event_log_impl.cc(218)] [14:50:14.169] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 14:50:14.204 [11784:5832:0228/145014.173:ERROR:device_event_log_impl.cc(218)] [14:50:14.173] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 14:50:14.859 [11784:10528:0228/145014.858:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 14:50:44.399 [11784:10528:0228/145044.390:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 14:51:38.597 [11784:10528:0228/145138.591:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 14:52:37.814 [11784:5832:0228/145237.811:ERROR:device_event_log_impl.cc(218)] [14:52:37.810] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2023 14:52:55.339 [11784:10528:0228/145255.329:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 28, 2023 15:30:04.440 [8544:1752:0228/153004.418:ERROR:device_event_log_impl.cc(218)] [15:30:04.416] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 15:30:04.474 [8544:1752:0228/153004.419:ERROR:device_event_log_impl.cc(218)] [15:30:04.418] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 15:36:13.741 [4644:7392:0228/153613.726:ERROR:device_event_log_impl.cc(218)] [15:36:13.724] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 15:36:13.778 [4644:7392:0228/153613.726:ERROR:device_event_log_impl.cc(218)] [15:36:13.726] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 16:37:41.276 [4644:7124:0228/163741.184:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 28, 2023 16:37:43.246 [4644:7124:0228/163743.246:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 28, 2023 16:38:28.797 [4644:7124:0228/163828.790:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7
+Feb 28, 2023 16:39:18.880 [4644:7124:0228/163918.878:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 16:41:17.150 [4644:7124:0228/164117.148:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 16:44:39.582 [4644:7124:0228/164439.563:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 16:51:40.393 [4644:7124:0228/165140.369:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 17:01:40.419 [4644:7124:0228/170140.390:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 17:11:40.449 [4644:7124:0228/171140.417:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 17:21:40.481 [4644:7124:0228/172140.451:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 17:31:40.507 [4644:7124:0228/173140.487:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 17:41:40.533 [4644:7124:0228/174140.505:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 17:51:40.549 [4644:7124:0228/175140.527:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 18:01:40.567 [4644:7124:0228/180140.550:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 18:11:40.604 [4644:7124:0228/181140.581:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 18:21:40.623 [4644:7124:0228/182140.600:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 18:31:40.645 [4644:7124:0228/183140.624:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 18:41:40.712 [4644:7124:0228/184140.694:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 18:51:40.767 [4644:7124:0228/185140.722:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 18:53:04.819 [4644:5488:0228/185304.800:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 28, 2023 18:54:19.848 [4644:5488:0228/185419.841:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 28, 2023 18:56:12.437 [4644:5488:0228/185612.430:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 28, 2023 19:00:53.727 [4644:5488:0228/190053.714:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 28, 2023 19:01:40.836 [4644:7124:0228/190140.827:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 19:07:55.889 [4644:5488:0228/190755.880:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 28, 2023 19:11:40.881 [4644:7124:0228/191140.870:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 19:17:56.183 [4644:5488:0228/191756.175:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 28, 2023 19:21:40.912 [4644:7124:0228/192140.888:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2023 19:27:56.653 [4644:5488:0228/192756.641:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 28, 2023 19:31:40.934 [4644:7124:0228/193140.917:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Mar 01, 2023 08:46:45.763 NEW SESSION
+Mar 01, 2023 08:46:45.765 [4124:8876:0301/084645.686:ERROR:device_event_log_impl.cc(218)] [08:46:45.686] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 08:46:45.768 [4124:8876:0301/084645.686:ERROR:device_event_log_impl.cc(218)] [08:46:45.687] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 08:47:34.30 [12096:2708:0301/084734.009:ERROR:device_event_log_impl.cc(218)] [08:47:34.009] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 08:47:34.82 [12096:2708:0301/084734.013:ERROR:device_event_log_impl.cc(218)] [08:47:34.013] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 08:58:41.184 [7348:1332:0301/085841.178:ERROR:device_event_log_impl.cc(218)] [08:58:41.178] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 08:58:41.206 [7348:1332:0301/085841.179:ERROR:device_event_log_impl.cc(218)] [08:58:41.179] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 09:00:34.36 [9320:8044:0301/090034.019:ERROR:device_event_log_impl.cc(218)] [09:00:34.019] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 09:00:34.68 [9320:8044:0301/090034.022:ERROR:device_event_log_impl.cc(218)] [09:00:34.022] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 09:03:23.607 [8444:11904:0301/090323.597:ERROR:device_event_log_impl.cc(218)] [09:03:23.597] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 09:03:23.629 [8444:11904:0301/090323.599:ERROR:device_event_log_impl.cc(218)] [09:03:23.600] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 09:16:07.787 [7088:11720:0301/091607.780:ERROR:device_event_log_impl.cc(218)] [09:16:07.780] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 09:16:07.814 [7088:11720:0301/091607.782:ERROR:device_event_log_impl.cc(218)] [09:16:07.781] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:04:13.89 [1764:3936:0301/100413.078:ERROR:device_event_log_impl.cc(218)] [10:04:13.078] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:04:13.172 [1764:3936:0301/100413.079:ERROR:device_event_log_impl.cc(218)] [10:04:13.079] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:08:37.187 [8780:4780:0301/100837.175:ERROR:device_event_log_impl.cc(218)] [10:08:37.174] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:08:37.222 [8780:4780:0301/100837.177:ERROR:device_event_log_impl.cc(218)] [10:08:37.176] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:10:55.207 [11084:4364:0301/101055.200:ERROR:device_event_log_impl.cc(218)] [10:10:55.200] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:10:55.229 [11084:4364:0301/101055.202:ERROR:device_event_log_impl.cc(218)] [10:10:55.202] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:12:23.658 [8144:8420:0301/101223.648:ERROR:device_event_log_impl.cc(218)] [10:12:23.648] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:12:23.685 [8144:8420:0301/101223.649:ERROR:device_event_log_impl.cc(218)] [10:12:23.649] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:14:18.302 [11920:4524:0301/101418.293:ERROR:device_event_log_impl.cc(218)] [10:14:18.293] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:14:18.328 [11920:4524:0301/101418.294:ERROR:device_event_log_impl.cc(218)] [10:14:18.294] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:15:41.661 [8500:6956:0301/101541.639:ERROR:device_event_log_impl.cc(218)] [10:15:41.639] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:15:41.702 [8500:6956:0301/101541.640:ERROR:device_event_log_impl.cc(218)] [10:15:41.639] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:19:26.277 [11392:11588:0301/101926.253:ERROR:device_event_log_impl.cc(218)] [10:19:26.254] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:19:26.329 [11392:11588:0301/101926.254:ERROR:device_event_log_impl.cc(218)] [10:19:26.254] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:28:09.45 [11140:1728:0301/102809.032:ERROR:device_event_log_impl.cc(218)] [10:28:09.032] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:28:09.69 [11140:1728:0301/102809.033:ERROR:device_event_log_impl.cc(218)] [10:28:09.033] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:28:56.720 [3424:3976:0301/102856.708:ERROR:device_event_log_impl.cc(218)] [10:28:56.709] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:28:56.753 [3424:3976:0301/102856.710:ERROR:device_event_log_impl.cc(218)] [10:28:56.710] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:46:06.856 [5368:8980:0301/104606.830:ERROR:device_event_log_impl.cc(218)] [10:46:06.829] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 10:46:06.897 [5368:8980:0301/104606.831:ERROR:device_event_log_impl.cc(218)] [10:46:06.831] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 11:51:21.467 [4984:4564:0301/115121.446:ERROR:device_event_log_impl.cc(218)] [11:51:21.446] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 11:51:21.501 [4984:4564:0301/115121.448:ERROR:device_event_log_impl.cc(218)] [11:51:21.448] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 11:54:12.30 [8628:10544:0301/115411.950:ERROR:device_event_log_impl.cc(218)] [11:54:11.950] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 11:54:12.85 [8628:10544:0301/115411.951:ERROR:device_event_log_impl.cc(218)] [11:54:11.951] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 12:23:35.780 [12176:2884:0301/122335.767:ERROR:device_event_log_impl.cc(218)] [12:23:35.767] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 12:23:35.806 [12176:2884:0301/122335.769:ERROR:device_event_log_impl.cc(218)] [12:23:35.769] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 02, 2023 08:49:38.239 NEW SESSION
+Mar 02, 2023 08:49:38.241 [8440:11732:0302/084938.070:ERROR:device_event_log_impl.cc(218)] [08:49:38.071] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 08:49:38.247 [8440:11732:0302/084938.071:ERROR:device_event_log_impl.cc(218)] [08:49:38.072] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 08:49:39.166 [8440:11316:0302/084939.165:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 08:50:06.340 [8440:11316:0302/085006.338:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 08:50:09.529 [8440:11732:0302/085009.528:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 02, 2023 08:50:10.152 [8440:11732:0302/085010.151:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 02, 2023 08:51:00.733 [8440:11316:0302/085100.727:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 08:52:50.253 [8440:11316:0302/085250.250:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 08:56:22.929 [8440:11316:0302/085622.927:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 09:08:53.536 [9184:656:0302/090853.521:ERROR:device_event_log_impl.cc(218)] [09:08:53.520] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 09:08:53.561 [9184:656:0302/090853.521:ERROR:device_event_log_impl.cc(218)] [09:08:53.521] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 09:09:24.462 [9184:3252:0302/090924.457:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 09:09:49.386 [9184:3252:0302/090949.384:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 09:10:40.665 [9184:3252:0302/091040.663:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 09:12:16.755 [9184:3252:0302/091216.751:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 09:15:37.977 [9184:3252:0302/091537.968:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 09:17:10.397 [9184:3252:0302/091710.387:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 02, 2023 09:17:12.947 [9184:3252:0302/091712.947:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Mar 02, 2023 16:08:25.163 NEW SESSION
+Mar 02, 2023 16:08:25.169 [6876:4360:0302/160825.019:ERROR:device_event_log_impl.cc(218)] [16:08:25.018] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 16:08:25.176 [6876:4360:0302/160825.019:ERROR:device_event_log_impl.cc(218)] [16:08:25.018] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 16:08:26.291 [6876:5888:0302/160826.289:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 16:08:50.208 [6876:5888:0302/160850.207:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 16:09:49.157 [6876:5888:0302/160949.152:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 16:11:41.671 [6876:5888:0302/161141.653:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Mar 02, 2023 21:15:14.621 NEW SESSION
+Mar 02, 2023 21:15:14.627 [6168:10336:0302/211514.087:ERROR:device_event_log_impl.cc(218)] [21:15:14.087] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:15:14.637 [6168:10336:0302/211514.088:ERROR:device_event_log_impl.cc(218)] [21:15:14.087] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:22:40.836 [6212:7912:0302/212240.827:ERROR:device_event_log_impl.cc(218)] [21:22:40.826] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:22:40.859 [6212:7912:0302/212240.829:ERROR:device_event_log_impl.cc(218)] [21:22:40.828] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:36:00.235 [11324:5196:0302/213600.197:ERROR:device_event_log_impl.cc(218)] [21:36:00.198] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:36:00.304 [11324:5196:0302/213600.199:ERROR:device_event_log_impl.cc(218)] [21:36:00.199] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:39:15.820 [9924:4196:0302/213915.803:ERROR:device_event_log_impl.cc(218)] [21:39:15.802] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:39:15.853 [9924:4196:0302/213915.804:ERROR:device_event_log_impl.cc(218)] [21:39:15.803] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:59:49.52 [5456:6264:0302/215949.040:ERROR:device_event_log_impl.cc(218)] [21:59:49.039] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 21:59:49.77 [5456:6264:0302/215949.041:ERROR:device_event_log_impl.cc(218)] [21:59:49.040] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 03, 2023 08:54:20.38 NEW SESSION
+Mar 03, 2023 08:54:20.39 [6856:9576:0303/085419.921:ERROR:device_event_log_impl.cc(218)] [08:54:19.921] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 08:54:20.43 [6856:9576:0303/085419.921:ERROR:device_event_log_impl.cc(218)] [08:54:19.921] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 08:54:52.776 [6856:9576:0303/085452.772:ERROR:gcm_message_cryptographer.cc(376)] Unable to transform the record.
+Mar 03, 2023 09:05:43.892 [11536:7128:0303/090543.861:ERROR:device_event_log_impl.cc(218)] [09:05:43.861] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 09:05:43.924 [11536:7128:0303/090543.861:ERROR:device_event_log_impl.cc(218)] [09:05:43.862] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 09:06:54.605 [11624:5656:0303/090654.590:ERROR:device_event_log_impl.cc(218)] [09:06:54.591] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 09:06:54.699 [11624:5656:0303/090654.605:ERROR:device_event_log_impl.cc(218)] [09:06:54.605] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 09:16:04.285 [9156:4600:0303/091604.258:ERROR:device_event_log_impl.cc(218)] [09:16:04.258] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 09:16:04.334 [9156:4600:0303/091604.260:ERROR:device_event_log_impl.cc(218)] [09:16:04.260] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 09:25:25.52 [9156:4600:0303/092525.035:ERROR:device_event_log_impl.cc(218)] [09:25:25.034] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 03, 2023 09:29:34.112 [9072:6448:0303/092934.058:ERROR:device_event_log_impl.cc(218)] [09:29:34.058] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 09:29:34.191 [9072:6448:0303/092934.061:ERROR:device_event_log_impl.cc(218)] [09:29:34.061] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 09:37:01.537 [6320:9024:0303/093701.530:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 03, 2023 09:37:38.266 [6128:9664:0303/093738.253:ERROR:device_event_log_impl.cc(218)] [09:37:38.252] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 09:37:38.292 [6128:9664:0303/093738.254:ERROR:device_event_log_impl.cc(218)] [09:37:38.253] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 12:10:35.01 [5236:11980:0303/121034.968:ERROR:device_event_log_impl.cc(218)] [12:10:34.969] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 12:10:35.62 [5236:11980:0303/121034.971:ERROR:device_event_log_impl.cc(218)] [12:10:34.971] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 03, 2023 22:41:59.318 NEW SESSION
+Mar 03, 2023 22:41:59.322 [9168:10284:0303/224159.276:ERROR:device_event_log_impl.cc(218)] [22:41:59.276] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:41:59.326 [9168:10284:0303/224159.276:ERROR:device_event_log_impl.cc(218)] [22:41:59.277] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:48:27.955 [9704:7488:0303/224827.945:ERROR:device_event_log_impl.cc(218)] [22:48:27.945] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:48:27.974 [9704:7488:0303/224827.946:ERROR:device_event_log_impl.cc(218)] [22:48:27.946] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:48:28.548 [9704:1596:0303/224828.546:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2023 22:49:05.131 [3764:4420:0303/224905.108:ERROR:device_event_log_impl.cc(218)] [22:49:05.108] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:49:05.161 [3764:4420:0303/224905.110:ERROR:device_event_log_impl.cc(218)] [22:49:05.110] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:49:05.366 [3764:6356:0303/224905.365:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2023 22:49:35.875 [9580:2872:0303/224935.870:ERROR:device_event_log_impl.cc(218)] [22:49:35.869] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:49:35.897 [9580:2872:0303/224935.870:ERROR:device_event_log_impl.cc(218)] [22:49:35.870] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:49:36.75 [9580:11016:0303/224936.074:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2023 22:50:01.117 [9580:11016:0303/225001.116:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2023 22:50:23.926 [3804:1600:0303/225023.917:ERROR:device_event_log_impl.cc(218)] [22:50:23.917] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:50:23.943 [3804:1600:0303/225023.919:ERROR:device_event_log_impl.cc(218)] [22:50:23.920] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:50:24.205 [3804:5096:0303/225024.203:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2023 22:53:35.825 [8888:9492:0303/225335.817:ERROR:device_event_log_impl.cc(218)] [22:53:35.818] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:53:35.847 [8888:9492:0303/225335.819:ERROR:device_event_log_impl.cc(218)] [22:53:35.819] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:55:47.582 [236:6976:0303/225547.573:ERROR:device_event_log_impl.cc(218)] [22:55:47.573] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 22:55:47.613 [236:6976:0303/225547.574:ERROR:device_event_log_impl.cc(218)] [22:55:47.574] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 23:03:18.498 [10948:9436:0303/230318.486:ERROR:device_event_log_impl.cc(218)] [23:03:18.485] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 23:03:18.538 [10948:9436:0303/230318.486:ERROR:device_event_log_impl.cc(218)] [23:03:18.486] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 23:19:17.631 [11936:7024:0303/231917.570:ERROR:device_event_log_impl.cc(218)] [23:19:17.569] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 23:19:17.708 [11936:7024:0303/231917.575:ERROR:device_event_log_impl.cc(218)] [23:19:17.575] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 23:53:41.325 [3928:10084:0303/235341.317:ERROR:device_event_log_impl.cc(218)] [23:53:41.317] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 23:53:41.351 [3928:10084:0303/235341.318:ERROR:device_event_log_impl.cc(218)] [23:53:41.318] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 04, 2023 09:00:05.845 NEW SESSION
+Mar 04, 2023 09:00:05.848 [7364:8676:0304/090005.797:ERROR:device_event_log_impl.cc(218)] [09:00:05.797] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2023 09:00:05.850 [7364:8676:0304/090005.798:ERROR:device_event_log_impl.cc(218)] [09:00:05.799] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2023 09:00:10.733 [7364:8676:0304/090010.732:ERROR:gcm_message_cryptographer.cc(376)] Unable to transform the record.
+Mar 04, 2023 09:01:30.55 [12008:11040:0304/090130.048:ERROR:device_event_log_impl.cc(218)] [09:01:30.048] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2023 09:01:30.70 [12008:11040:0304/090130.049:ERROR:device_event_log_impl.cc(218)] [09:01:30.049] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2023 10:22:05.322 [12008:10336:0304/102205.301:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 04, 2023 10:34:30.268 [12008:10336:0304/103430.257:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 04, 2023 10:40:11.55 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:42:50.408 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:46:53.980 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:49:00.559 [12008:10336:0304/104900.542:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 04, 2023 10:50:59.654 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:51:12.267 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:52:13.530 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:52:48.290 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:53:00.147 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:53:11.801 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:53:22.870 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:54:01.141 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:54:09.441 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:54:23.403 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 10:54:52.333 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 04, 2023 11:01:20.527 [10628:11624:0304/110120.403:ERROR:device_event_log_impl.cc(218)] [11:01:20.402] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2023 11:01:20.668 [10628:11624:0304/110120.404:ERROR:device_event_log_impl.cc(218)] [11:01:20.403] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 10, 2023 09:10:32.64 NEW SESSION
+Mar 10, 2023 09:10:32.66 [11812:9400:0310/091031.884:ERROR:device_event_log_impl.cc(222)] [09:10:31.884] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 09:10:32.73 [11812:9400:0310/091031.885:ERROR:device_event_log_impl.cc(222)] [09:10:31.884] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 09:10:34.362 [11812:11488:0310/091034.354:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:10:34.365 [11812:11488:0310/091034.355:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:10:34.365 [11812:11488:0310/091034.356:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:10:34.370 [11812:11488:0310/091034.356:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:10:36.449 [11812:11488:0310/091036.448:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:10:42.470 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2023 09:12:20.731 [7552:8720:0310/091220.721:ERROR:device_event_log_impl.cc(222)] [09:12:20.722] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 09:12:20.746 [7552:8720:0310/091220.726:ERROR:device_event_log_impl.cc(222)] [09:12:20.727] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 09:12:21.495 [7552:12640:0310/091221.494:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:12:21.496 [7552:12640:0310/091221.495:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:12:21.502 [7552:12640:0310/091221.501:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:12:21.511 [7552:12640:0310/091221.510:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:12:21.788 [7552:12640:0310/091221.787:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:12:26.495 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2023 09:12:42.732 [7552:12640:0310/091242.731:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:12:44.61 [7552:12640:0310/091244.060:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:12:44.519 [7552:12640:0310/091244.518:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:12:46.524 [7552:12640:0310/091246.523:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:12:51.270 [7552:12640:0310/091251.270:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:13:26.80 [7552:12640:0310/091326.077:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:13:27.385 [7552:12640:0310/091327.384:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:13:29.749 [7552:12640:0310/091329.748:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:13:29.794 [7552:12640:0310/091329.793:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:13:38.248 [7552:12640:0310/091338.247:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:14:54.754 [7552:12640:0310/091454.748:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:15:04.723 [7552:12640:0310/091504.722:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:15:07.423 [7552:12640:0310/091507.421:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:15:20.860 [7552:12640:0310/091520.858:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:15:26.714 [7552:12640:0310/091526.714:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:18:07.813 [7552:12640:0310/091807.794:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:18:17.653 [7552:12640:0310/091817.652:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:18:27.712 [7552:12640:0310/091827.711:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:18:48.181 [7552:12640:0310/091848.180:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:18:51.901 [7552:12640:0310/091851.900:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:22:32.602 [3616:6052:0310/092232.591:ERROR:device_event_log_impl.cc(222)] [09:22:32.591] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 09:22:32.633 [3616:6052:0310/092232.592:ERROR:device_event_log_impl.cc(222)] [09:22:32.592] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 09:22:33.93 [3616:8576:0310/092233.093:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:22:33.95 [3616:8576:0310/092233.094:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:22:33.96 [3616:8576:0310/092233.094:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:22:33.97 [3616:8576:0310/092233.095:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:22:33.792 [3616:8576:0310/092233.791:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:22:37.651 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2023 09:23:10.621 [7508:13016:0310/092310.589:ERROR:device_event_log_impl.cc(222)] [09:23:10.589] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 09:23:10.681 [7508:13016:0310/092310.590:ERROR:device_event_log_impl.cc(222)] [09:23:10.590] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 09:23:11.412 [7508:8672:0310/092311.411:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:23:11.414 [7508:8672:0310/092311.413:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:23:11.416 [7508:8672:0310/092311.413:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:23:11.418 [7508:8672:0310/092311.414:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:23:11.419 [7508:8672:0310/092311.414:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:23:13.993 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2023 09:23:34.131 [7508:8672:0310/092334.130:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:23:35.333 [7508:8672:0310/092335.332:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:23:37.842 [7508:8672:0310/092337.841:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:23:39.80 [7508:8672:0310/092339.078:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:23:39.590 [7508:8672:0310/092339.589:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:24:19.607 [7508:8672:0310/092419.605:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:24:23.718 [7508:8672:0310/092423.718:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:24:28.16 [7508:8672:0310/092428.014:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:24:29.211 [7508:8672:0310/092429.210:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:24:36.643 [7508:8672:0310/092436.642:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:25:45.823 [7508:8672:0310/092545.820:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:26:01.752 [7508:8672:0310/092601.751:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:26:03.958 [7508:8672:0310/092603.958:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:26:20.727 [7508:8672:0310/092620.726:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:26:32.871 [7508:8672:0310/092632.870:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:28:47.273 [7508:8672:0310/092847.267:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 09:29:21.988 [7508:8672:0310/092921.987:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:29:37.934 [7508:8672:0310/092937.933:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:29:40.781 [7508:8672:0310/092940.780:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:30:24.665 [7508:8672:0310/093024.664:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Mar 10, 2023 09:34:09.766 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 10, 2023 09:35:43.270 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 10, 2023 09:36:50.144 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 10, 2023 09:38:18.964 [6748:324:0310/093818.939:ERROR:device_event_log_impl.cc(222)] [09:38:18.939] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 09:38:19.13 [6748:324:0310/093818.941:ERROR:device_event_log_impl.cc(222)] [09:38:18.941] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 09:38:21.800 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2023 09:39:12.590 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 10, 2023 10:50:30.173 [12868:7876:0310/105030.045:ERROR:device_event_log_impl.cc(222)] [10:50:30.045] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 10:50:30.222 [12868:7876:0310/105030.045:ERROR:device_event_log_impl.cc(222)] [10:50:30.045] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 10:50:34.296 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2023 12:15:15.650 [12868:7472:0310/121515.580:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 10, 2023 12:15:36.281 [12868:7472:0310/121536.279:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 10, 2023 22:30:24.491 NEW SESSION
+Mar 10, 2023 22:30:24.502 [9464:2276:0310/223024.200:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+Mar 10, 2023 22:30:24.525 [9464:9116:0310/223024.375:ERROR:disk_cache.cc(205)] Unable to create cache
+Mar 10, 2023 22:30:24.528 [9464:9116:0310/223024.375:ERROR:gpu_disk_cache.cc(673)] Gpu Cache Creation failed: -2
+Mar 10, 2023 22:30:29.883 [9464:9116:0310/223029.570:ERROR:device_event_log_impl.cc(222)] [22:30:29.570] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 22:30:30.83 [9464:9116:0310/223029.572:ERROR:device_event_log_impl.cc(222)] [22:30:29.572] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 22:30:30.293 Opening in existing browser session.
+Mar 10, 2023 22:31:02.148 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2023 23:08:21.93 [5800:1332:0310/230821.076:ERROR:device_event_log_impl.cc(222)] [23:08:21.075] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 23:08:21.119 [5800:1332:0310/230821.077:ERROR:device_event_log_impl.cc(222)] [23:08:21.076] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 23:08:25.352 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 11, 2023 08:46:04.187 NEW SESSION
+Mar 11, 2023 08:46:04.192 [11744:10640:0311/084604.045:ERROR:device_event_log_impl.cc(222)] [08:46:04.045] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 08:46:04.200 [11744:10640:0311/084604.048:ERROR:device_event_log_impl.cc(222)] [08:46:04.047] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 08:46:04.464 [11744:3528:0311/084604.462:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 11, 2023 08:46:07.344 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 08:46:33.300 [11744:3528:0311/084633.297:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 11, 2023 08:47:21.987 [11744:3528:0311/084721.985:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 11, 2023 08:49:21.954 [11744:3528:0311/084921.944:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 11, 2023 08:52:07.393 [11744:3528:0311/085207.382:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 11, 2023 08:59:21.934 [11744:3528:0311/085921.929:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 11, 2023 09:09:22.01 [11744:3528:0311/090921.985:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 11, 2023 09:11:00.48 [11744:10640:0311/091100.043:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2023 09:11:00.730 [11744:10640:0311/091100.729:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2023 09:23:09.60 [11592:4792:0311/092309.046:ERROR:device_event_log_impl.cc(222)] [09:23:09.046] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:23:09.77 [11592:4792:0311/092309.048:ERROR:device_event_log_impl.cc(222)] [09:23:09.048] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:23:09.298 [11592:4384:0311/092309.297:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 11, 2023 09:23:11.976 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 09:23:35.746 [11592:4384:0311/092335.745:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 11, 2023 09:24:27.298 [11592:4384:0311/092427.296:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 11, 2023 09:39:35.97 [8752:11740:0311/093935.084:ERROR:device_event_log_impl.cc(222)] [09:39:35.084] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:39:35.127 [8752:11740:0311/093935.084:ERROR:device_event_log_impl.cc(222)] [09:39:35.084] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:39:39.188 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 09:40:46.04 [8448:1036:0311/094045.976:ERROR:device_event_log_impl.cc(222)] [09:40:45.975] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:40:46.54 [8448:1036:0311/094045.992:ERROR:device_event_log_impl.cc(222)] [09:40:45.993] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:40:50.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 09:48:11.668 [11632:8444:0311/094811.661:ERROR:device_event_log_impl.cc(222)] [09:48:11.661] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:48:11.680 [11632:8444:0311/094811.663:ERROR:device_event_log_impl.cc(222)] [09:48:11.663] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:48:16.663 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 09:50:50.912 [6612:7860:0311/095050.906:ERROR:device_event_log_impl.cc(222)] [09:50:50.906] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:50:50.934 [6612:7860:0311/095050.907:ERROR:device_event_log_impl.cc(222)] [09:50:50.907] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:50:54.898 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 09:52:32.120 [840:9728:0311/095232.113:ERROR:device_event_log_impl.cc(222)] [09:52:32.114] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:52:32.137 [840:9728:0311/095232.114:ERROR:device_event_log_impl.cc(222)] [09:52:32.114] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 09:52:35.761 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 10:16:11.234 [308:3264:0311/101611.227:ERROR:device_event_log_impl.cc(222)] [10:16:11.227] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 10:16:11.253 [308:3264:0311/101611.228:ERROR:device_event_log_impl.cc(222)] [10:16:11.228] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 10:16:26.818 [9800:316:0311/101626.811:ERROR:device_event_log_impl.cc(222)] [10:16:26.812] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 10:16:26.827 [9800:316:0311/101626.813:ERROR:device_event_log_impl.cc(222)] [10:16:26.813] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 10:16:28.670 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 10:16:55.513 [6800:9120:0311/101655.505:ERROR:device_event_log_impl.cc(222)] [10:16:55.504] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 10:16:55.530 [6800:9120:0311/101655.506:ERROR:device_event_log_impl.cc(222)] [10:16:55.506] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 10:16:58.800 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 10:18:16.967 [8788:4884:0311/101816.959:ERROR:device_event_log_impl.cc(222)] [10:18:16.958] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 10:18:16.989 [8788:4884:0311/101816.961:ERROR:device_event_log_impl.cc(222)] [10:18:16.960] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 10:18:20.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 10:25:33.291 [4204:6448:0311/102533.276:ERROR:device_event_log_impl.cc(222)] [10:25:33.276] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 10:25:33.316 [4204:6448:0311/102533.276:ERROR:device_event_log_impl.cc(222)] [10:25:33.277] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 10:25:35.885 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2023 12:16:16.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 11, 2023 17:30:25.990 NEW SESSION
+Mar 11, 2023 17:30:25.992 [3712:5440:0311/173025.904:ERROR:device_event_log_impl.cc(222)] [17:30:25.904] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 17:30:26.00 [3712:5440:0311/173025.905:ERROR:device_event_log_impl.cc(222)] [17:30:25.905] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 11, 2023 17:30:39.998 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 12, 2023 10:17:42.335 NEW SESSION
+Mar 12, 2023 10:17:42.339 [10408:9552:0312/101741.593:ERROR:device_event_log_impl.cc(222)] [10:17:41.593] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 10:17:42.345 [10408:9552:0312/101741.596:ERROR:device_event_log_impl.cc(222)] [10:17:41.596] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 10:17:43.501 [10408:8524:0312/101743.499:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:17:48.618 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2023 10:18:11.591 [10408:9552:0312/101811.589:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 12, 2023 10:18:12.115 [10408:8524:0312/101812.114:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:18:12.467 [10408:9552:0312/101812.466:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 12, 2023 10:19:06.747 [10408:8524:0312/101906.744:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:20:36.439 [10408:8524:0312/102036.420:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:23:26.900 [10408:8524:0312/102326.890:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:25:10.486 [10044:10912:0312/102510.480:ERROR:device_event_log_impl.cc(222)] [10:25:10.480] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 10:25:10.509 [10044:10912:0312/102510.481:ERROR:device_event_log_impl.cc(222)] [10:25:10.481] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 10:25:10.786 [10044:4828:0312/102510.785:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:25:44.46 [3484:12608:0312/102544.023:ERROR:device_event_log_impl.cc(222)] [10:25:44.023] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 10:25:44.104 [3484:12608:0312/102544.025:ERROR:device_event_log_impl.cc(222)] [10:25:44.025] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 10:25:44.478 [3484:10956:0312/102544.477:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:25:46.294 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2023 10:26:12.568 [3484:10956:0312/102612.563:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:27:09.468 [3484:10956:0312/102709.465:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:28:41.196 [3484:10956:0312/102841.186:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:32:14.606 [3484:10956:0312/103214.591:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:40:00.414 [3484:10956:0312/104000.406:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 10:50:00.494 [3484:10956:0312/105000.476:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 11:00:00.525 [3484:10956:0312/110000.515:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 11:10:00.630 [3484:10956:0312/111000.621:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 11:20:00.757 [3484:10956:0312/112000.745:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 11:30:00.774 [3484:10956:0312/113000.765:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 11:38:19.82 [3484:10956:0312/113819.058:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2023 11:38:29.400 [3484:10956:0312/113829.386:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 12, 2023 11:38:31.479 [3484:10956:0312/113831.478:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2023 11:38:33.699 [3484:12608:0312/113833.697:ERROR:device_event_log_impl.cc(222)] [11:38:33.693] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 12, 2023 12:01:50.82 [6404:10016:0312/120150.076:ERROR:device_event_log_impl.cc(222)] [12:01:50.076] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 12:01:50.96 [6404:10016:0312/120150.078:ERROR:device_event_log_impl.cc(222)] [12:01:50.077] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 12:01:53.643 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2023 12:05:48.281 [5468:3748:0312/120548.271:ERROR:device_event_log_impl.cc(222)] [12:05:48.270] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 12:05:48.294 [5468:3748:0312/120548.275:ERROR:device_event_log_impl.cc(222)] [12:05:48.274] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 12:05:59.858 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2023 12:24:22.863 [6872:3264:0312/122422.846:ERROR:device_event_log_impl.cc(222)] [12:24:22.845] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 12:24:22.959 [6872:3264:0312/122422.847:ERROR:device_event_log_impl.cc(222)] [12:24:22.847] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 12:24:30.362 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2023 12:25:24.285 [12608:13192:0312/122524.278:ERROR:device_event_log_impl.cc(222)] [12:25:24.278] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 12:25:24.309 [12608:13192:0312/122524.278:ERROR:device_event_log_impl.cc(222)] [12:25:24.278] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 12:25:26.253 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 13, 2023 08:46:59.510 NEW SESSION
+Mar 13, 2023 08:46:59.514 [10232:6032:0313/084659.452:ERROR:device_event_log_impl.cc(222)] [08:46:59.452] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 13, 2023 08:46:59.520 [10232:6032:0313/084659.453:ERROR:device_event_log_impl.cc(222)] [08:46:59.453] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 13, 2023 08:47:00.578 [10232:4256:0313/084700.577:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 08:47:04.917 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2023 08:47:23.152 [10232:4256:0313/084723.152:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 08:48:16.858 [10232:4256:0313/084816.853:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 08:49:41.232 [10232:4256:0313/084941.229:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 08:53:21.61 [10232:4256:0313/085321.047:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 08:59:12.795 [10232:4256:0313/085912.791:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 09:09:12.840 [10232:4256:0313/090912.833:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 11:07:57.23 [10232:4256:0313/110757.011:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 11:08:25.713 [10232:4256:0313/110825.711:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 11:09:24.604 [10232:4256:0313/110924.600:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 11:11:12.104 [10232:4256:0313/111112.089:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 11:14:20.317 [10232:4256:0313/111420.312:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 11:16:39.265 [10232:4256:0313/111639.246:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2023 11:16:46.804 [10232:4256:0313/111646.804:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2023 11:16:58.725 [10232:4256:0313/111658.723:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2023 11:54:33.743 [10232:4256:0313/115433.412:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 12:11:57.608 [10232:4256:0313/121157.563:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 13, 2023 12:11:57.789 [10232:4256:0313/121157.781:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2023 12:28:08.913 [10232:6032:0313/122808.876:ERROR:device_event_log_impl.cc(222)] [12:28:08.873] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 13, 2023 17:57:00.934 NEW SESSION
+Mar 13, 2023 17:57:00.944 [12832:3628:0313/175700.836:ERROR:device_event_log_impl.cc(222)] [17:57:00.837] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 13, 2023 17:57:00.949 [12832:3628:0313/175700.836:ERROR:device_event_log_impl.cc(222)] [17:57:00.837] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 13, 2023 17:57:07.18 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2023 18:02:36.365 [9656:6056:0313/180236.349:ERROR:device_event_log_impl.cc(222)] [18:02:36.349] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 13, 2023 18:02:36.397 [9656:6056:0313/180236.351:ERROR:device_event_log_impl.cc(222)] [18:02:36.351] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 13, 2023 18:02:40.480 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2023 18:42:05.186 [4388:7356:0313/184205.177:ERROR:device_event_log_impl.cc(222)] [18:42:05.177] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 13, 2023 18:42:05.212 [4388:7356:0313/184205.179:ERROR:device_event_log_impl.cc(222)] [18:42:05.180] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 13, 2023 18:42:08.482 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2023 19:40:21.638 [4388:12108:0313/194021.631:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 19:40:43.807 [4388:12108:0313/194043.802:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 19:41:24.999 [4388:12108:0313/194124.996:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 19:43:45.764 [4388:12108:0313/194345.755:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 19:44:11.336 [4388:12108:0313/194411.334:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2023 19:45:08.893 [4388:12108:0313/194508.888:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 14, 2023 09:14:28.836 NEW SESSION
+Mar 14, 2023 09:14:28.841 [8752:13152:0314/091428.559:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+Mar 14, 2023 09:14:28.941 [8752:6908:0314/091428.865:ERROR:disk_cache.cc(205)] Unable to create cache
+Mar 14, 2023 09:14:28.946 [8752:6908:0314/091428.865:ERROR:gpu_disk_cache.cc(673)] Gpu Cache Creation failed: -2
+Mar 14, 2023 09:14:29.43 Opening in existing browser session.
+Mar 14, 2023 09:14:33.572 [8752:6908:0314/091433.571:ERROR:device_event_log_impl.cc(222)] [09:14:33.571] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 14, 2023 09:14:33.573 [8752:6908:0314/091433.573:ERROR:device_event_log_impl.cc(222)] [09:14:33.573] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 14, 2023 09:14:33.914 [8752:2276:0314/091433.913:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:14:37.295 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 14, 2023 09:14:58.471 [8752:2276:0314/091458.470:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:15:41.447 [8752:2276:0314/091541.445:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:17:35.188 [8752:2276:0314/091735.185:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:21:24.873 [8752:2276:0314/092124.842:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:28:57.641 [8752:2276:0314/092857.626:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:30:15.500 [7936:2204:0314/093015.480:ERROR:device_event_log_impl.cc(222)] [09:30:15.479] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 14, 2023 09:30:15.537 [7936:2204:0314/093015.480:ERROR:device_event_log_impl.cc(222)] [09:30:15.480] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 14, 2023 09:30:16.418 [7936:4524:0314/093016.412:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:30:19.680 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 14, 2023 09:30:42.989 [7936:4524:0314/093042.988:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:31:41.618 [7936:4524:0314/093141.615:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:33:19.692 [7936:4524:0314/093319.690:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:37:11.413 [7936:4524:0314/093711.399:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:44:49.945 [7936:4524:0314/094449.927:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 14, 2023 09:54:49.949 [7936:4524:0314/095449.936:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 15, 2023 08:52:46.897 NEW SESSION
+Mar 15, 2023 08:52:46.901 [8564:10456:0315/085246.651:ERROR:device_event_log_impl.cc(222)] [08:52:46.651] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 15, 2023 08:52:46.907 [8564:10456:0315/085246.652:ERROR:device_event_log_impl.cc(222)] [08:52:46.652] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 15, 2023 08:52:53.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 15, 2023 10:13:59.429 [8564:10456:0315/101359.393:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Mar 16, 2023 11:47:45.227 NEW SESSION
+Mar 16, 2023 11:47:45.232 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 17, 2023 09:06:46.28 NEW SESSION
+Mar 17, 2023 09:06:46.34 Opening in existing browser session.
+Mar 17, 2023 09:06:49.546 [12772:1012:0317/090649.543:ERROR:device_event_log_impl.cc(222)] [09:06:49.543] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 17, 2023 09:06:49.552 [12772:1012:0317/090649.544:ERROR:device_event_log_impl.cc(222)] [09:06:49.544] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 17, 2023 09:06:55.796 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 18, 2023 09:21:34.552 NEW SESSION
+Mar 18, 2023 09:21:34.563 [9140:6316:0318/092134.284:ERROR:device_event_log_impl.cc(222)] [09:21:34.284] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:21:34.575 [9140:6316:0318/092134.284:ERROR:device_event_log_impl.cc(222)] [09:21:34.284] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:21:39.238 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:25:35.663 [7392:764:0318/092535.659:ERROR:device_event_log_impl.cc(222)] [09:25:35.659] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:25:35.683 [7392:764:0318/092535.660:ERROR:device_event_log_impl.cc(222)] [09:25:35.660] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:25:41.755 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 09:56:31.633 [8168:6400:0318/095631.624:ERROR:device_event_log_impl.cc(222)] [09:56:31.624] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:56:31.653 [8168:6400:0318/095631.624:ERROR:device_event_log_impl.cc(222)] [09:56:31.624] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 09:56:35.965 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 10:04:24.677 [8168:6400:0318/100424.652:ERROR:device_event_log_impl.cc(222)] [10:04:24.648] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 18, 2023 10:12:01.756 [8168:7896:0318/101201.731:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 10:12:28.520 [8168:7896:0318/101228.518:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 10:13:19.634 [8168:7896:0318/101319.632:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 10:14:55.757 [8168:7896:0318/101455.744:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 11:17:10.682 [8168:7896:0318/111710.630:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 11:17:36.180 [8168:7896:0318/111736.175:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 11:23:02.351 [8168:7896:0318/112302.331:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 18, 2023 11:23:15.208 [8168:7896:0318/112315.207:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2023 11:25:10.990 [8168:7896:0318/112510.975:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+
+Mar 18, 2023 18:43:00.467 NEW SESSION
+Mar 18, 2023 18:43:00.472 [9076:6316:0318/184300.265:ERROR:device_event_log_impl.cc(222)] [18:43:00.264] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 18:43:00.480 [9076:6316:0318/184300.266:ERROR:device_event_log_impl.cc(222)] [18:43:00.265] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2023 18:43:00.846 [9076:6272:0318/184300.845:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 18:43:04.918 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 18:43:26.159 [9076:6272:0318/184326.157:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 18:44:07.991 [9076:6272:0318/184407.987:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 18:45:32.947 [9076:6272:0318/184532.935:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 18:48:44.374 [9076:6272:0318/184844.350:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2023 18:55:21.965 [9076:6272:0318/185521.959:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 20, 2023 09:30:37.944 NEW SESSION
+Mar 20, 2023 09:30:38.572 [8204:9260:0320/093036.093:ERROR:device_event_log_impl.cc(222)] [09:30:36.093] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 09:30:38.599 [8204:9260:0320/093036.095:ERROR:device_event_log_impl.cc(222)] [09:30:36.095] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 09:30:53.117 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2023 09:44:44.961 [8204:2984:0320/094444.949:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 09:45:06.741 [8204:2984:0320/094506.570:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 09:45:51.221 [8204:2984:0320/094551.210:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 09:47:39.365 [8204:2984:0320/094739.352:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 09:50:36.58 [8204:2984:0320/095036.025:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 09:55:21.210 [8204:2984:0320/095521.200:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 20, 2023 09:55:23.519 [8204:2984:0320/095523.518:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 09:55:23.854 [8204:9260:0320/095523.854:ERROR:device_event_log_impl.cc(222)] [09:55:23.849] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 20, 2023 09:55:56.813 [8204:2984:0320/095556.799:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 20, 2023 09:56:49.206 [8204:2984:0320/095649.203:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 09:59:25.843 [8204:2984:0320/095925.826:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 20, 2023 10:00:21.757 [8204:2984:0320/100021.749:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 10:01:58.829 [8204:2984:0320/100158.810:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 20, 2023 10:02:16.581 [8204:2984:0320/100216.578:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 20, 2023 10:02:18.791 [8204:2984:0320/100218.790:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 10:03:05.610 [8204:2984:0320/100305.605:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 20, 2023 10:06:20.758 [8204:2984:0320/100620.749:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 20, 2023 10:06:22.769 [8204:2984:0320/100622.768:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 10:06:55.866 [8204:2984:0320/100655.860:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 20, 2023 10:06:55.894 [8204:2984:0320/100655.894:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Mar 20, 2023 10:06:57.984 [8204:2984:0320/100657.983:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 20, 2023 10:07:15.843 [8204:2984:0320/100715.837:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 20, 2023 10:07:32.649 [8204:2984:0320/100732.640:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 20, 2023 10:07:37.586 [8204:2984:0320/100737.580:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 10:09:08.598 [8204:2984:0320/100908.574:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 10:26:38.255 [8204:2984:0320/102638.238:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+
+Mar 20, 2023 21:16:38.995 NEW SESSION
+Mar 20, 2023 21:16:38.998 [2032:7340:0320/211638.893:ERROR:device_event_log_impl.cc(222)] [21:16:38.893] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 21:16:39.04 [2032:7340:0320/211638.893:ERROR:device_event_log_impl.cc(222)] [21:16:38.894] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 21:16:39.859 [2032:11060:0320/211639.858:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 21:16:44.311 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2023 21:17:07.366 [2032:11060:0320/211707.363:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 21:17:10.862 [2032:7340:0320/211710.860:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 20, 2023 21:17:11.716 [2032:7340:0320/211711.715:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 20, 2023 21:17:50.116 [2032:11060:0320/211750.107:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 21:19:10.864 [2032:11060:0320/211910.853:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 21:22:43.778 [2032:11060:0320/212243.748:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 21, 2023 08:37:02.293 NEW SESSION
+Mar 21, 2023 08:37:02.295 [1552:10716:0321/083702.262:ERROR:device_event_log_impl.cc(222)] [08:37:02.261] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 08:37:02.297 [1552:10716:0321/083702.263:ERROR:device_event_log_impl.cc(222)] [08:37:02.263] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 08:37:03.813 [1552:7420:0321/083703.811:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2023 08:38:30.82 [7304:10060:0321/083830.078:ERROR:device_event_log_impl.cc(222)] [08:38:30.078] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 08:38:30.88 [7304:10060:0321/083830.080:ERROR:device_event_log_impl.cc(222)] [08:38:30.080] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 08:38:30.797 [7304:424:0321/083830.796:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2023 08:38:33.486 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 21, 2023 08:38:53.129 [7304:424:0321/083853.117:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2023 08:39:33.545 [7304:424:0321/083933.524:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2023 08:40:58.762 [7304:424:0321/084058.740:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2023 08:44:01.315 [7304:424:0321/084401.310:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2023 08:49:30.870 [10184:1668:0321/084930.859:ERROR:device_event_log_impl.cc(222)] [08:49:30.859] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 08:49:30.890 [10184:1668:0321/084930.859:ERROR:device_event_log_impl.cc(222)] [08:49:30.860] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 21, 2023 08:49:35.544 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 22, 2023 10:58:01.500 NEW SESSION
+Mar 22, 2023 10:58:01.507 [10972:7852:0322/105801.421:ERROR:device_event_log_impl.cc(222)] [10:58:01.421] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 22, 2023 10:58:01.512 [10972:7852:0322/105801.422:ERROR:device_event_log_impl.cc(222)] [10:58:01.423] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 22, 2023 10:58:06.150 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 22, 2023 11:09:09.939 [10972:8864:0322/110909.915:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2023 11:09:30.65 [10972:8864:0322/110930.063:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2023 11:10:13.125 [10972:8864:0322/111013.095:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2023 12:00:47.409 [10972:8864:0322/120047.300:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 12:00:47.692 [10972:8864:0322/120047.691:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Mar 22, 2023 19:45:18.160 NEW SESSION
+Mar 22, 2023 19:45:18.174 [7104:4860:0322/194518.005:ERROR:device_event_log_impl.cc(222)] [19:45:18.005] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 22, 2023 19:45:18.193 [7104:4860:0322/194518.007:ERROR:device_event_log_impl.cc(222)] [19:45:18.007] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 22, 2023 19:45:25.778 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 22, 2023 20:05:11.596 [6732:10448:0322/200511.578:ERROR:device_event_log_impl.cc(222)] [20:05:11.577] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 22, 2023 20:05:11.637 [6732:10448:0322/200511.579:ERROR:device_event_log_impl.cc(222)] [20:05:11.578] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 22, 2023 20:05:16.316 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 22, 2023 20:10:02.579 [6732:10448:0322/201002.569:ERROR:device_event_log_impl.cc(222)] [20:10:02.565] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 22, 2023 20:10:02.623 [6732:10448:0322/201002.622:ERROR:device_event_log_impl.cc(222)] [20:10:02.622] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 22, 2023 20:12:29.332 [6732:10448:0322/201229.318:ERROR:device_event_log_impl.cc(222)] [20:12:29.316] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 22, 2023 20:12:29.352 [6732:10448:0322/201229.352:ERROR:device_event_log_impl.cc(222)] [20:12:29.351] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 22, 2023 20:45:40.327 [6732:1672:0322/204540.294:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2023 20:46:04.484 [6732:1672:0322/204604.482:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2023 20:46:54.05 [6732:1672:0322/204653.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2023 20:48:30.135 [6732:1672:0322/204830.110:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2023 20:52:17.590 [6732:1672:0322/205217.554:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2023 20:57:54.23 [6732:1672:0322/205753.989:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2023 24:11:46.688 [6732:1672:0323/001146.647:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2023 24:11:46.803 [6732:8488:0323/001146.687:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Mar 23, 2023 08:54:07.98 NEW SESSION
+Mar 23, 2023 08:54:07.102 [3540:8804:0323/085406.992:ERROR:device_event_log_impl.cc(222)] [08:54:06.993] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 23, 2023 08:54:07.112 [3540:8804:0323/085406.993:ERROR:device_event_log_impl.cc(222)] [08:54:06.994] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 23, 2023 08:54:07.907 [3540:1488:0323/085407.906:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2023 08:54:12.248 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 23, 2023 08:54:34.698 [3540:1488:0323/085434.696:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2023 08:55:34.229 [3540:1488:0323/085534.228:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 23, 2023 09:39:42.328 NEW SESSION
+Mar 23, 2023 09:39:42.337 [72:3364:0323/093941.989:ERROR:device_event_log_impl.cc(222)] [09:39:41.988] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 23, 2023 09:39:42.347 [72:3364:0323/093941.989:ERROR:device_event_log_impl.cc(222)] [09:39:41.989] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 23, 2023 09:39:52.957 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 23, 2023 10:01:36.281 [72:6640:0323/100136.274:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 11:47:46.915 [72:6640:0323/114745.993:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 23, 2023 11:48:24.124 [72:6640:0323/114824.122:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 23, 2023 11:48:26.162 [72:6640:0323/114826.127:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 25, 2023 09:31:47.806 NEW SESSION
+Mar 25, 2023 09:31:47.816 [7756:8460:0325/093147.350:ERROR:device_event_log_impl.cc(222)] [09:31:47.351] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 25, 2023 09:31:47.822 [7756:8460:0325/093147.352:ERROR:device_event_log_impl.cc(222)] [09:31:47.352] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 25, 2023 09:31:53.454 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 25, 2023 09:56:33.532 [6996:10660:0325/095633.440:ERROR:device_event_log_impl.cc(222)] [09:56:33.440] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 25, 2023 09:56:33.603 [6996:10660:0325/095633.441:ERROR:device_event_log_impl.cc(222)] [09:56:33.441] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 25, 2023 09:56:37.169 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 25, 2023 11:55:31.630 NEW SESSION
+Mar 25, 2023 11:55:31.634 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 25, 2023 12:04:08.329 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 25, 2023 12:05:38.767 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 25, 2023 12:07:27.783 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 27, 2023 08:49:20.252 NEW SESSION
+Mar 27, 2023 08:49:20.256 [10036:10020:0327/084920.115:ERROR:device_event_log_impl.cc(222)] [08:49:20.116] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 08:49:20.264 [10036:10020:0327/084920.116:ERROR:device_event_log_impl.cc(222)] [08:49:20.116] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 08:49:32.187 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 09:35:58.900 [7364:896:0327/093558.883:ERROR:device_event_log_impl.cc(222)] [09:35:58.882] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:35:58.931 [7364:896:0327/093558.883:ERROR:device_event_log_impl.cc(222)] [09:35:58.883] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:36:03.424 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 09:39:19.134 [6580:5784:0327/093919.118:ERROR:device_event_log_impl.cc(222)] [09:39:19.118] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:39:19.163 [6580:5784:0327/093919.119:ERROR:device_event_log_impl.cc(222)] [09:39:19.119] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:39:22.477 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 09:48:56.98 [2168:4368:0327/094856.092:ERROR:device_event_log_impl.cc(222)] [09:48:56.091] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:48:56.126 [2168:4368:0327/094856.093:ERROR:device_event_log_impl.cc(222)] [09:48:56.093] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:49:01.390 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 09:53:26.78 [1040:4516:0327/095326.057:ERROR:device_event_log_impl.cc(222)] [09:53:26.058] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:53:26.106 [1040:4516:0327/095326.057:ERROR:device_event_log_impl.cc(222)] [09:53:26.058] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:53:31.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2023 09:55:45.77 [8284:1096:0327/095545.070:ERROR:device_event_log_impl.cc(222)] [09:55:45.070] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:55:45.88 [8284:1096:0327/095545.071:ERROR:device_event_log_impl.cc(222)] [09:55:45.071] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:57:05.499 [9088:8532:0327/095705.493:ERROR:device_event_log_impl.cc(222)] [09:57:05.494] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:57:05.523 [9088:8532:0327/095705.493:ERROR:device_event_log_impl.cc(222)] [09:57:05.494] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 27, 2023 09:57:09.104 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 01, 2023 10:03:05.06 NEW SESSION
+Apr 01, 2023 10:03:05.13 [8288:236:0401/100304.353:ERROR:device_event_log_impl.cc(222)] [10:03:04.354] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 10:03:05.21 [8288:236:0401/100304.355:ERROR:device_event_log_impl.cc(222)] [10:03:04.355] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 10:03:10.850 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2023 10:15:28.361 [8288:9028:0401/101528.336:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Apr 03, 2023 09:34:10.759 NEW SESSION
+Apr 03, 2023 09:34:10.767 [7248:10016:0403/093410.640:ERROR:device_event_log_impl.cc(222)] [09:34:10.641] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 09:34:10.773 [7248:10016:0403/093410.648:ERROR:device_event_log_impl.cc(222)] [09:34:10.649] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 09:34:16.868 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2023 09:36:10.728 [11376:3992:0403/093610.709:ERROR:device_event_log_impl.cc(222)] [09:36:10.709] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 09:36:10.754 [11376:3992:0403/093610.709:ERROR:device_event_log_impl.cc(222)] [09:36:10.710] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 09:36:19.161 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2023 10:32:26.970 [6720:4116:0403/103226.963:ERROR:device_event_log_impl.cc(222)] [10:32:26.962] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 10:32:26.990 [6720:4116:0403/103226.964:ERROR:device_event_log_impl.cc(222)] [10:32:26.964] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 10:32:31.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2023 10:34:59.188 [7840:5904:0403/103459.172:ERROR:device_event_log_impl.cc(222)] [10:34:59.172] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 10:34:59.210 [7840:5904:0403/103459.172:ERROR:device_event_log_impl.cc(222)] [10:34:59.173] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 10:35:04.757 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

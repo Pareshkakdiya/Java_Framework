@@ -1,0 +1,21 @@
+package com.swing;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JTextField;
+
+public class Registration {
+  JFrame f;
+  JLabel l;
+  JTextField t;
+  JButton b;
+  public Registration() {
+	f= new JFrame("REGISTRATION FORM");
+	f.setVisible(true);
+	f.setSize(800, 500);
+}
+  public static void main(String[] args) {
+	new Registration();
+}
+}
